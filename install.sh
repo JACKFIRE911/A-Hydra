@@ -19,51 +19,52 @@ clear
 
 echo "Wait It Take such a wile"
 sleep 1
-echo "$red GitHub: Jackfire911 // Instagram: Jackfire911"
+echo "$red   GitHub: Jackfire911 // Instagram: Jackfire911"
 echo "installing"
-sleep 3
+sleep 0.5
 clear
 echo "Installing ..."
-sleep 1
+sleep 0.2
+
 clear
 echo "iNstalling ..."
-sleep 1
+sleep 0.2
 clear
 echo "inStalling ..."
-sleep 1
+sleep 0.2
 clear
 echo "insTalling ..."
-sleep 1
+sleep 0.2
 clear
 echo "instAlling ..."
-sleep 1
+sleep 0.2
 clear
 echo "instaLling ..."
-sleep 1
+sleep 0.2
 clear
 echo "instalLing ..."
-sleep 1
+sleep 0.2
 clear
 echo "installIng ..."
-sleep 1
+sleep 0.2
 clear
 echo "installiNg ..."
-sleep 1
+sleep 0.2
 clear
 echo "installinG ..."
-sleep 1
+sleep 0.2
 clear
 echo "Installing ..."
-sleep 1
+sleep 0.2
 clear
 echo "iNstalling ..."
-sleep 1
+sleep 0.2
 clear
 echo "inStalling ..."
 cat wait.txt  
 apt update && apt  upgrade -y 
 pkg install python3 -y
-pip3 install lolcat -y
+pip3 install lolcat 
 clear
 cat wait.txt | lolcat -d 2 -a
 sleep 2

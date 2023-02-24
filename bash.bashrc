@@ -11,7 +11,7 @@ export HISTCONTROL=ignoreboth
 
 # Default command line prompt.
 PROMPT_DIRTRIM=2
-cat /data/data/com.termux/files/usr/etc/Logo.txt | lolcat -d 2 -a
+cat /data/data/com.termux/files/usr/etc/logo.txt | lolcat -d 2 -a
 PS1='\033[1;31mHｘㅤ×͜×ㅤBｕｎｎｙ\033[1;94m[\033[1;96m\W\033[1;94m]\033[1;92m:\033[1;91m# \033[1;92m'
  
 # Handles nonexistent commands.
